@@ -257,10 +257,11 @@ nav ul li a {
 
 .header-content h1 {
   font-size: 40px;
-  font-weight: 700;
+  font-weight: 400;
+  font-style: italic;
   margin-bottom: 10px;
-  text-transform: uppercase;
-  color: rgba(255, 217, 0, 0.61);
+  /* text-transform: uppercase; */
+  color: #fff;
 }
 
 .header-content p {
@@ -660,6 +661,8 @@ audio {
   font-weight: 500;
   margin-top: 0;
   text-transform: uppercase;
+  margin-bottom: 5px;
+  padding-bottom: 5px;
 }
 
 .credits {
